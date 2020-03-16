@@ -15,7 +15,7 @@ Zkopírujte si na Plochu dokument [sablona.txt](./docs/sablona.txt).
 1. Když přijde pacient, šablonu si otevřete
 2. Než začnete cokoli psát, klikněte na Soubor pak **Uložit jako** (Save As...)
 
-![notepad](./images/save_as.png){:class="img-responsive"}
+![notepad](./images/save_as.png)
 
 3. Dokument pojmenujte ve formátu "mm_dd_prijmeni_jmeno_rodnecislo.txt", tedy např. [03_17_novak_jan_9208124218.txt](./docs/03_17_novak_jan_9208124218.txt)
 4. Zapište, co je potřeba. **Nemažte a neměňte předepsaná pole mezi zavináči!**
