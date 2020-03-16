@@ -1,0 +1,19 @@
+﻿@Příjmení@: Novák
+@Jméno@: Jan
+@Rodné číslo@: 9208124218
+@Bydliště@: Váchova 18, 621 00, Brno
+@OA@: bezvýznamná, dif varicella, úrazy 0, operace 0
+@SP@: 12 letý chlapec, při vědomí, orientovaný, kůže anikterická,
+turgor v normě, O/U/N bez sekrece, zvětšené LU nehmatám, DÚ a hrdlo klidné, 
+tonsily bez obsahu, eupnoe, dýchání alveolární čisté bpn, SA pravidelná, 
+břicho v niveau, volně prohmatné, nebolestivé, tapotement bilaterálně negativní, 
+meningeální jevy negativní
+@NO@: už týden produktivní kašel a rýma, subfebrilie do 38 st.C., dnes zhoršení, 
+febrilie nad 39.5
+@Alergie@: nezjištěny
+@FA@: 0
+@EA@: necestovali
+@Dg@: akutní katar horních cest dýchacích
+@Th@: srážet teplotu, paralen + nurofen, střídat po 4 hodinách, Mucosolvan 2x denně 10ml
+@Kódy@:
+@Poznámky@:

@@ -1,0 +1,18 @@
+﻿@Příjmení@:
+@Jméno@:
+@Rodné číslo@:
+@Bydliště@:
+@OA@:
+@SP@: XX letý chlapec/dívka, při vědomí, orientovaný, kůže anikterická,
+turgor v normě, O/U/N bez sekrece, zvětšené LU nehmatám, DÚ a hrdlo klidné, 
+tonsily bez obsahu, eupnoe, dýchání alveolární čisté bpn, SA pravidelná, 
+břicho v niveau, volně prohmatné, nebolestivé, tapotement bilaterálně negativní, 
+meningeální jevy negativní
+@NO@:
+@Alergie@: nezjištěny
+@FA@: 0
+@EA@: necestovali
+@Dg@:
+@Th@:
+@Kódy@:
+@Poznámky@:
